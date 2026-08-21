@@ -1,0 +1,8 @@
+{
+  "name": "DocuCraft PDF Studio",
+  "description": "Professional all-in-one PDF platform for merging, splitting, compressing, converting, editing, OCR, and securing PDF documents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
